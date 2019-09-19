@@ -26,5 +26,12 @@ namespace SimpleWeb2.Controllers
 
             return View();
         }
+
+        public ActionResult Images()
+        {
+            ViewBag.Message = "Your Images page.";
+
+            return View();
+        }
     }
 }

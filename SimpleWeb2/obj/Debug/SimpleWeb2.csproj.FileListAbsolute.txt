@@ -77,4 +77,7 @@ C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\obj\D
 C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\obj\Debug\SimpleWeb2.csproj.CopyComplete
 C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\obj\Debug\SimpleWeb2.dll
 C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\obj\Debug\SimpleWeb2.pdb
-C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\obj\Debug\SimpleWeb2.csprojAssemblyReference.cache
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adeboye Azeez\Desktop\C#Engineering40\Week6\SimpleWeb2\SimpleWeb2\bin\Microsoft.AspNet.Identity.EntityFramework.xml
