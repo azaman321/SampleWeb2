@@ -82,4 +82,11 @@ h6{
             text-decoration: underline;
         }
 
+        .account h4{
+            font-weight: 600;
+            text-transform: uppercase;
+            line-height: 20px;
+            margin-bottom: 10px;
+
+        }
 
